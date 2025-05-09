@@ -17,11 +17,9 @@
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://github.com/Farhanachyar/Chat-ID-Telegram-Bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
+    <a href="https://github.com/Farhanachyar/Chat-ID-Telegram-Bot/discussions">Request Feature</a>
   </p>
 </p>
 
