@@ -102,9 +102,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 If you find this project helpful, please consider giving it a star on GitHub! It helps a lot.
 
-<a href="https://github.com/farhanachyar/Chat-ID-Telegram-Bot">
-  <img src="https://img.shields.io/github/stars/farhanachyar/Chat-ID-Telegram-Bot?style=social" alt="GitHub stars">
-</a>
+<a href="https://github.com/Farhanachyar/Chat-ID-Telegram-Bot/stargazers"><img src="https://img.shields.io/github/stars/farhanachyar/Chat-ID-Telegram-Bot"/></a>
 
 You can also:
 - 💻 Check out my other projects on [GitHub](https://github.com/farhanachyar)
